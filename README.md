@@ -1,5 +1,5 @@
 # Plant-Pathology-FGVC7
-Kaggle competition ‘Plant Pathology Challenge’ for FGVC7 workshop at CVPR 2020 in Seattle, Washington State
+Kaggle competition [‘Plant Pathology Challenge’](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview) for FGVC7 workshop at CVPR 2020 in Seattle, Washington State
 
 ## Problem Statement
 
@@ -16,4 +16,4 @@ Objectives of ‘Plant Pathology Challenge’ are to train a model using images 
 
 ## Repository Objective
 
-The goal of this repository is to regroup all the script created and used to adress the second task of ‘Plant Pathology Challenge’. PyTorch has been choosen to be the framework used in this repository
+The goal of this repository is to regroup all the script created and used to adress the second task of ‘Plant Pathology Challenge’. [PyTorch](https://github.com/pytorch/pytorch) has been choosen to be the framework used in this repository
