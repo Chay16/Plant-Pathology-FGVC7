@@ -11,7 +11,7 @@ Objectives of ‘Plant Pathology Challenge’ are to train a model using images 
 - Accurately classify a given image from testing dataset into different diseased category or a healthy leaf
 - Accurately distinguish between many diseases, sometimes more than one on a single leaf
 - Deal with rare classes and novel symptoms
-- Address depth perception—angle, light, shade, physiological age of the leaf
+- Address depth perception angle, light, shade, physiological age of the leaf
 - Incorporate expert knowledge in identification, annotation, quantification, and guiding computer vision to search for relevant features during learning.
 
 ## Repository Objective
